@@ -1,0 +1,57 @@
+/* Start Global Roles */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Varela", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+button {
+    border: 0;
+    outline: 0;
+}
+a {
+    text-decoration: none;
+    display: block;
+    color: black;
+}
+ul {
+    list-style: none;
+}
+:root {
+    --main-color: #f6f6f6;
+    --blueviolet-color: #8A2BE2;
+}
+.container {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+@media (max-width: 767ps) {
+    .container {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+}
+.page {
+    height: 100vh;
+    background-color: var(--main-color);
+}
+/* End Global Roles */
+h1 {
+    color: var(--blueviolet-color);
+}
+.click {
+    background-color: var(--blueviolet-color);
+    padding: 10px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+
