@@ -21,7 +21,7 @@ This is a simple web application that allows users to translate text from one la
 
 ## Demo
 
-[Link to Live Demo](#)  <!-- Replace # with the URL of your live demo -->
+[NO LINK NOW](#)  <!-- Replace # with the URL of your live demo -->
 
 ## Screenshots
 
