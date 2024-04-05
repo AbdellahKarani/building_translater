@@ -25,7 +25,7 @@ This is a simple web application that allows users to translate text from one la
 
 ## Screenshots
 
-<!-- Add screenshots of your web app here -->
+![Screenshot 2024-04-05 080830](https://github.com/AbdellahKarani/building_translater/assets/139627717/98fd9ec9-77f8-4878-8ec2-8ef80e94f950)
 
 ## Setup Instructions
 
@@ -38,4 +38,4 @@ Feel free to customize and expand upon this project. If you have any questions o
 
 ## Author
 
-[Your Name](#)  <!-- Replace # with the URL of your GitHub profile -->
+[Abdellah Karani]([#](https://github.com/AbdellahKarani))  <!-- Replace # with the URL of your GitHub profile -->
