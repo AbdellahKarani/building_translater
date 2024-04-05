@@ -38,4 +38,4 @@ Feel free to customize and expand upon this project. If you have any questions o
 
 ## Author
 
-[Abdellah Karani]([#](https://github.com/AbdellahKarani))  <!-- Replace # with the URL of your GitHub profile -->
+[Abdellah Karani]([(https://github.com/AbdellahKarani)])  <!-- Replace # with the URL of your GitHub profile -->
